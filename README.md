@@ -1,4 +1,4 @@
-# DockerBuild-RaspberryPi-NextJS
+# docker-rpi-nextjs
 RaspberryPi(64bit)にDockerでNextJS開発環境サーバを構築
 
 ## 参考サイト
